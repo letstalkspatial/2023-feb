@@ -18,8 +18,10 @@ Agenda
 
 ## Youtube Recording of the meetup
 
+https://youtu.be/pwEzizbe7OM
+
 ## Slides of speaker
-- Sucharitha - 
+- Sucharitha - https://github.com/letstalkspatial/2023-feb/blob/main/Efficient%20Enterprises%20with%20Drones%20-%20Sucharitha.pdf
 - Pavan - 
 
 ## RSVP Links
@@ -29,4 +31,8 @@ https://www.meetup.com/lets-talk-spatial/events/291529952/
 ## Event Archive and updates
 https://letstalkspatial.in/talks/
 
+
+
+| ![PXL_20230218_065633828 MP_2](https://user-images.githubusercontent.com/119618422/219874106-0eef8e61-3637-449f-949f-ead9fdb05358.jpg) | ![18th_feb-lts6](https://user-images.githubusercontent.com/119618422/219873847-d351f774-e708-4836-85a7-9cea09edb404.jpg) |
+|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 
